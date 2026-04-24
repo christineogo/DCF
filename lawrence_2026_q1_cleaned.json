@@ -1,0 +1,341 @@
+{
+  "placement_type": [
+    {
+      "category": "Comprehensive Foster Care - IFC (Contracted)",
+      "count": 16,
+      "percent": 0.11
+    },
+    {
+      "category": "Congregate Care - Emergency Residence",
+      "count": 5,
+      "percent": 0.03
+    },
+    {
+      "category": "Congregate Care - Residential School",
+      "count": 14,
+      "percent": 0.09
+    },
+    {
+      "category": "Congregate Care - Treatment Residence",
+      "count": 9,
+      "percent": 0.06
+    },
+    {
+      "category": "Congregate Care - Youth and Young Adults",
+      "count": 0,
+      "percent": NaN
+    },
+    {
+      "category": "DFC - Foster Care - Independent Living",
+      "count": 0,
+      "percent": NaN
+    },
+    {
+      "category": "DFC - Foster Care - Kinship",
+      "count": 54,
+      "percent": 0.36
+    },
+    {
+      "category": "DFC - Foster Care - Pre Adoptive",
+      "count": 5,
+      "percent": 0.03
+    },
+    {
+      "category": "DFC - Foster Care - Unrelated",
+      "count": 32,
+      "percent": 0.22
+    },
+    {
+      "category": "Missing/Absent from Approved Placement",
+      "count": 3,
+      "percent": 0.02
+    },
+    {
+      "category": "Non-Referral Location (e.g., hospital, other state agency)",
+      "count": 10,
+      "percent": 0.07
+    }
+  ],
+  "race_in_placement": [
+    {
+      "race": "White (1)",
+      "count": 41,
+      "percent": 0.28
+    },
+    {
+      "race": "Hispanic/Latino/Latina (2)",
+      "count": 86,
+      "percent": 0.58
+    },
+    {
+      "race": "Black (1)",
+      "count": 7,
+      "percent": 0.05
+    },
+    {
+      "race": "Asian (1)",
+      "count": 1,
+      "percent": 0.01
+    },
+    {
+      "race": "Native American(1)",
+      "count": 2,
+      "percent": 0.01
+    },
+    {
+      "race": "Multi-Racial (1)(3)",
+      "count": 7,
+      "percent": 0.05
+    },
+    {
+      "race": "Unable to Determine/Declined",
+      "count": 4,
+      "percent": 0.03
+    }
+  ],
+  "age_group_in_placement": [
+    {
+      "age_group": "0 - 2 Years Old",
+      "count": 23,
+      "percent": 16.0
+    },
+    {
+      "age_group": "3 - 5 Years Old",
+      "count": 14,
+      "percent": 9.0
+    },
+    {
+      "age_group": "6 - 11 Years Old",
+      "count": 40,
+      "percent": 27.0
+    },
+    {
+      "age_group": "12 - 17 Years Old",
+      "count": 71,
+      "percent": 48.0
+    },
+    {
+      "age_group": "Unspecified",
+      "count": 0,
+      "percent": NaN
+    }
+  ],
+  "primary_language_in_placement": [
+    {
+      "language": "English/Unknown",
+      "count": 457,
+      "percent": 0.79
+    },
+    {
+      "language": "Spanish",
+      "count": 111,
+      "percent": 0.19
+    },
+    {
+      "language": "Portuguese",
+      "count": 0,
+      "percent": NaN
+    },
+    {
+      "language": "Other",
+      "count": 5,
+      "percent": 0.01
+    },
+    {
+      "language": "Haitian Creole",
+      "count": 1,
+      "percent": NaN
+    },
+    {
+      "language": "Arabic",
+      "count": 0,
+      "percent": NaN
+    },
+    {
+      "language": "Khmer",
+      "count": 0,
+      "percent": NaN
+    },
+    {
+      "language": "Vietnamese",
+      "count": 0,
+      "percent": NaN
+    },
+    {
+      "language": "American Sign Language",
+      "count": 1,
+      "percent": NaN
+    }
+  ],
+  "permanency_plan": [
+    {
+      "plan_type": "Family Reunification",
+      "count": 58,
+      "percent": 0.39
+    },
+    {
+      "plan_type": "Adoption",
+      "count": 37,
+      "percent": 0.25
+    },
+    {
+      "plan_type": "Guardianship",
+      "count": 12,
+      "percent": 0.08
+    },
+    {
+      "plan_type": "APPLA - Another Planned Permanent Living Arrangement",
+      "count": 8,
+      "percent": 0.05
+    },
+    {
+      "plan_type": "Stabilize Intact Family",
+      "count": 17,
+      "percent": 0.11
+    },
+    {
+      "plan_type": "Permanent Care with Kin",
+      "count": 13,
+      "percent": 0.09
+    },
+    {
+      "plan_type": "Unspecified as of run-date",
+      "count": 3,
+      "percent": 0.02
+    }
+  ],
+  "time_in_placement": [
+    {
+      "duration": "0.5 Years or Less",
+      "count": 50,
+      "percent": 0.34
+    },
+    {
+      "duration": ">0.5 Years - 1 Year",
+      "count": 22,
+      "percent": 0.15
+    },
+    {
+      "duration": "1\u20132 Years",
+      "count": 44,
+      "percent": 0.3
+    },
+    {
+      "duration": "2\u20134 Years",
+      "count": 16,
+      "percent": 0.11
+    },
+    {
+      "duration": "4+ Years",
+      "count": 16,
+      "percent": 0.11
+    }
+  ],
+  "gender_identity": [
+    {
+      "gender_identity": "Does not wish to answer",
+      "count": 3,
+      "percent": 0.02
+    },
+    {
+      "gender_identity": "Female",
+      "count": 47,
+      "percent": 0.38
+    },
+    {
+      "gender_identity": "Gender Nonconforming",
+      "count": 0,
+      "percent": NaN
+    },
+    {
+      "gender_identity": "Male",
+      "count": 40,
+      "percent": 0.32
+    },
+    {
+      "gender_identity": "Missing",
+      "count": 30,
+      "percent": 0.24
+    },
+    {
+      "gender_identity": "Non-Binary",
+      "count": 1,
+      "percent": 0.01
+    },
+    {
+      "gender_identity": "Not Listed/Other",
+      "count": 3,
+      "percent": 0.02
+    },
+    {
+      "gender_identity": "Transgender (Female to Male)",
+      "count": 1,
+      "percent": 0.01
+    }
+  ],
+  "sexual_orientation_section_26": [
+    {
+      "sexual_orientation": "Asexual",
+      "count": 0,
+      "percent": NaN
+    },
+    {
+      "sexual_orientation": "Bisexual",
+      "count": 1,
+      "percent": 0.01
+    },
+    {
+      "sexual_orientation": "Does not wish to answer",
+      "count": 19,
+      "percent": 0.15
+    },
+    {
+      "sexual_orientation": "Gay",
+      "count": 2,
+      "percent": 0.02
+    },
+    {
+      "sexual_orientation": "Missing",
+      "count": 31,
+      "percent": 0.25
+    },
+    {
+      "sexual_orientation": "Not Listed/Other",
+      "count": 7,
+      "percent": 0.06
+    },
+    {
+      "sexual_orientation": "Pansexual/Omnisexual",
+      "count": 1,
+      "percent": 0.01
+    },
+    {
+      "sexual_orientation": "Questioning",
+      "count": 1,
+      "percent": 0.01
+    },
+    {
+      "sexual_orientation": "Straight/Heterosexual",
+      "count": 63,
+      "percent": 0.5
+    }
+  ],
+  "intake_type": [
+    {
+      "intake_type": "51A Report",
+      "count": 135,
+      "percent": 0.91
+    },
+    {
+      "intake_type": "Court Referral/CRA Referral",
+      "count": 13,
+      "percent": 0.09
+    },
+    {
+      "intake_type": "Institutional Abuse",
+      "count": 0,
+      "percent": NaN
+    }
+  ],
+  "anomalies": []
+}
